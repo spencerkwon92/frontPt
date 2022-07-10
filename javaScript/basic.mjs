@@ -1,3 +1,7 @@
+import {name, age} from "module"
+
+console.log(name, age);
+
 // var counts = ["one", "two", "three", "four", "five"];
 // var reversed = counts.reverse();
 
